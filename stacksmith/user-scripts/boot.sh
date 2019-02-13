@@ -1,0 +1,2 @@
+###run the game
+./glportal
